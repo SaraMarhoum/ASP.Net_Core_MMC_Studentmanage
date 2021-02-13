@@ -1,1 +1,1 @@
-# ASP.Net_Core_MMC_Studentmanage
+# ASP.Net_Core_MVC_Studentmanage
