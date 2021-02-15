@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Youcode\\source\\repos\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj": {}
+    "C:\\Users\\Youcode\\Desktop\\ASP.Net_Core_MVC_Studentmanage\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Youcode\\source\\repos\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj": {
+    "C:\\Users\\Youcode\\Desktop\\ASP.Net_Core_MVC_Studentmanage\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Youcode\\source\\repos\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj",
+        "projectUniqueName": "C:\\Users\\Youcode\\Desktop\\ASP.Net_Core_MVC_Studentmanage\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj",
         "projectName": "ASPcrudMVC_Student",
-        "projectPath": "C:\\Users\\Youcode\\source\\repos\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj",
+        "projectPath": "C:\\Users\\Youcode\\Desktop\\ASP.Net_Core_MVC_Studentmanage\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\ASPcrudMVC_Student.csproj",
         "packagesPath": "C:\\Users\\Youcode\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Youcode\\source\\repos\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\obj\\",
+        "outputPath": "C:\\Users\\Youcode\\Desktop\\ASP.Net_Core_MVC_Studentmanage\\ASPcrudMVC_Student\\ASPcrudMVC_Student\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
